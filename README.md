@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manisankar55
-- 👀 I’m interested in Web devolopment  
+- 👀 I’m interested in C++ Embeded System 
 - 🌱 I’m currently Working at Wipro Limited as Project Engineer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/manisankar-mondol-88a7311ba/
